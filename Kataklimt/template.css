@@ -1,6 +1,6 @@
 .top-banner{
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
     background-color: white;
     height: 150px;
     display:flex;
@@ -23,9 +23,10 @@
 }
 
 .overlap{
-    background-color: black;
+    background-color: #1d1d1d;
     width: 90%;
     margin-left: 5%;
+    padding-top:30px;
     margin-right: 5%;
     display:flex;
     height: 400px;
@@ -73,11 +74,6 @@
 }
 .container_img5:hover{
     transform: scale(1.4);
-}
-
-*{
-    box-sizing: border-box;
-    
 }
 
 img{
@@ -147,10 +143,10 @@ img{
 }
 
 .Text2 {
-    width:70%; 
+    width:65%; 
     height: auto; 
     margin-top:1%;
-    margin-left: 30px;
+    margin-left: 20px;
     font-family:Arial, Helvetica, sans-serif; 
     color: gray;
     text-align: justify;
