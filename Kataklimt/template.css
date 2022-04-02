@@ -368,15 +368,19 @@ img{
     .top-banner{
         display: block;
         height: auto;
+        margin-bottom: 30%;
     }
     .logo{
         width: 100%;
-        display: block;
+        
     } 
     .nav-menu{
         width: 100%;
-        display: block;
+        
         height: auto;
+        float: left;
+        margin-left: 0px;
+        margin-bottom: 50px;
     } 
 
     .mid-div1{
@@ -388,35 +392,26 @@ img{
         width: 100%;
         display: block;
         height: auto;
-    } 
-    /*.overlap3 {
-        width: 100%;
-        display: block;
-        height: auto;
-    } 
-    .overlap4 {
-        width: 100%;
-        display: block;
-        height: auto;
-    } 
-    .overlap5 {
-        width: 100%;
-        display: block;
-        height: auto;
-    }*/ 
+        background-color: none;
+        padding-right: 20px;
+    }
 
     .afterOverlap{
-        display: block;
+        
         height: auto;
+        width: 100%;
     }
 
     .Text1 {
         width: 100%;
-        display: block;
+        height: auto;
+        height: auto;
+        text-align: center;
+        border: none;
+        
     }
-    .Text1 {
-        width: 100%;
-        display: block;
+    .Text2 {
+        width: 100%;    
     }
 
     .infocard{
