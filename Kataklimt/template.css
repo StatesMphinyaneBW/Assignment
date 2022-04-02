@@ -363,5 +363,27 @@ img{
     width: 30px;
 }
 
-
 /*Responsiveness*/
+@media only screen and (max-width:768px){
+    .top-banner{
+        display: block;
+        height: auto;
+    }
+    .logo{
+        width: 100%;
+        display: block;
+    } 
+    .nav-menu{
+        width: 100%;
+        display: block;
+        height: auto;
+    } 
+    /*.row2 div{
+        width: 50%;
+    }*/     
+}
+/*@media only screen and (max-width:576px){
+    .row1 div, .row2 div{
+        width: 100%;
+    }    
+}*/
